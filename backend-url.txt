@@ -1,1 +1,1 @@
-https://enjoy-cheese-martha-blacks.trycloudflare.com
+https://api.trycloudflare.com
