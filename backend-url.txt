@@ -1,1 +1,1 @@
-https://appliances-authentication-venue-healthcare.trycloudflare.com
+True https://appliances-authentication-venue-healthcare.trycloudflare.com
