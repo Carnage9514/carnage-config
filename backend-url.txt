@@ -1,1 +1,1 @@
-https://portland-bugs-connector-important.trycloudflare.com
+True https://portland-bugs-connector-important.trycloudflare.com
