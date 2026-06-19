@@ -1,1 +1,1 @@
-https://seats-billing-transit-cursor.trycloudflare.com
+True https://seats-billing-transit-cursor.trycloudflare.com
